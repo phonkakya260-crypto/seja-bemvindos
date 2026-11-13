@@ -1,0 +1,25 @@
+DIAFER LTDA — SITE INSTITUCIONAL
+
+Arquivos:
+- index.html: página inicial com seções e rodapé completo.
+- sobre.html: página institucional.
+- politica-de-privacidade.html: política de privacidade (modelo inicial LGPD).
+- termos-de-uso.html: termos de uso (modelo inicial).
+- assets/: imagens fornecidas, CSS e JavaScript.
+
+COMO VISUALIZAR
+1. Extraia o ZIP mantendo a estrutura de pastas.
+2. Abra index.html no navegador ou envie todos os arquivos para sua hospedagem.
+3. A página usa Bootstrap 5.3.3, Bootstrap Icons e Google Fonts via CDN; é necessária conexão à internet para carregar esses recursos.
+
+ANTES DE PUBLICAR
+- Confirme razão social, CNPJ, endereço, telefone e e-mail.
+- Confirme se o endereço e os dados cadastrais correspondem à unidade anunciada.
+- Revise as páginas legais com profissional jurídico e ajuste a política às ferramentas efetivamente instaladas (Google Ads, Analytics, tags, cookies, formulários etc.).
+- Configure consentimento de cookies quando aplicável e adicione os avisos e identificadores de rastreamento apenas após configurar as ferramentas.
+- Confirme autorização de uso das imagens, logotipos e marcas de terceiros.
+- Revise disponibilidade, preços e descrições dos produtos; não há preços ou estoque publicados neste modelo.
+- A aprovação de anúncios pelo Google Ads depende da análise da conta, do anúncio, do destino e das políticas da plataforma; este site não garante aprovação.
+
+Contato informado: (15) 3329-8805 | phonkakya260@gmail.com
+Endereço informado: Avenida Guido Tomasoni, 715, Anexo 02, Distrito Industrial, Itapeva - SP, CEP 18410-600.

@@ -1,0 +1,1 @@
+document.addEventListener('DOMContentLoaded',()=>{const y=document.getElementById('year');if(y)y.textContent=new Date().getFullYear();document.querySelectorAll('.navbar-nav .nav-link').forEach(link=>link.addEventListener('click',()=>{const menu=document.getElementById('menu');if(menu&&menu.classList.contains('show'))bootstrap.Collapse.getOrCreateInstance(menu).hide()}));});
